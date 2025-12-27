@@ -1,0 +1,121 @@
+Chapter 2: Web Development Process
+
+#Short Questions
+qns1:Define the term ”Sitemap” in the planning phase
+->A sitemap is a visual or structured representation of a website’s pages and their hierarchy. It is created during the planning phase of web
+development to organize and outline the structure of the website before actual design and coding begin.
+
+qns2:What is the purpose of the ”Launch” phase in web development?
+->The Launch phase in web development is when the website is made live on the Internet. Its purpose is to publish the site, ensure all
+features work correctly, configure hosting and domain, and start monitoring performance.
+
+qns3:Why is ”Documentation” important in the development lifecycle?
+->Documentation is important because it records development processes, aids maintenance, helps debugging, and guides future updates.
+
+qns4:Differentiate between Front-end and Back-end development.
+->Front-end development deals with the visual part of a website that users interact with (HTML, CSS, JavaScript), while Back-end development 
+handles the server, database, and application logic that powers the website behind the scenes (PHP, Node.js, Python).
+
+#Long Answer questions
+qns5:”Planning is the most critical phase of web development.” Discuss this statement by listing
+the key activities performed during the planning phase.
+->Planning is the most critical phase because it lays the foundation for the entire website. Proper planning ensures the website meets user
+requirements, is well-structured, and avoids costly errors later in development.
+
+Key Activities in the Planning Phase:
+  -Requirement Analysis: Identify the purpose, target audience, and goals of the website.
+  -Content Planning: Decide what information, text, images, and media will be included.
+  -Sitemap Creation: Outline the structure and hierarchy of web pages.
+  -Technology Selection: Choose appropriate tools, platforms, and frameworks.
+  -Project Timeline: Plan the schedule, resources, and milestones.
+
+qns6:Explain the iterative nature of the Maintenance phase. Why is a website never truly
+”finished”?
+->Explanation:
+  -After launch, a website may need content updates, bug fixes, or security patches.
+  -User feedback and analytics may suggest changes to improve usability or performance.
+  -New technologies or browser updates may require the website to be modified to remain compatible.
+  -This creates a cycle of continuous monitoring, updating, and testing, which is why it is iterative.
+
+Why a Website is Never Truly “Finished”:
+  -The web is dynamic, with constantly changing user needs and technology.
+  -Security threats, browser updates, and new devices require ongoing maintenance.
+  -Content and design need to evolve to stay relevant and effective.
+
+qns7:Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
+->Information Gathering is the process of collecting all necessary data and requirements before designing and developing a website. 
+This step ensures that the website meets the client’s objectives and user needs.
+
+Understanding the Target Audience is Crucial beasuce of followimg points:
+  -Relevance & Resonance: You create messages and products that speak directly to their needs, interests, and desires, increasing engagement.
+  -Optimized Resources: It prevents wasted effort and budget by focusing on the most promising potential customers, maximizing ROI.
+  -Informed Decision-Making: You understand their motivations, pain points, and preferences, guiding better product development and strategy.
+  -Effective Communication: Knowing their preferred channels and language ensures your message is seen and understood, fostering connection.
+  -Tailored Solutions: You can customize offerings and solutions to provide real value, rather than generic features.
+  -Builds Relationships: Listening to and understanding your audience helps build trust and long-term loyalty. 
+
+#scenario based Questions
+qns8:You are the project manager for a new e-commerce site. The client wants to skip the
+”Testing” phase to save money and launch early. Write a persuasive argument explaining
+the potential risks (security, functionality, compatibility) of skipping this phase. 6 marks
+->Persuasive Argument: Importance of the Testing Phase
+
+As the project manager, I strongly advise against skipping the Testing phase. While skipping it may save money initially, 
+it exposes the website to serious risks that can harm the business, reputation, and revenue.
+
+1. Security Risks
+  -E-commerce websites handle sensitive customer data like credit card details and personal information.
+  -Without testing, vulnerabilities may go unnoticed, leaving the site open to hacking, data theft, or malware attacks.
+  -A security breach can damage customer trust and lead to legal consequences.
+
+2. Functionality Risks
+  -Testing ensures that all features work correctly, including product search, shopping cart, payment gateway, and order processing.
+  -Skipping testing can result in broken links, failed transactions, or incorrect calculations, frustrating customers and causing lost sales.
+
+3. Compatibility Risks
+  -Users access websites on different devices, browsers, and screen sizes.
+  -Without testing, the site may not display or function properly on some browsers or mobile devices, leading to a poor user experience.
+
+4. Financial and Reputational Costs
+  -Fixing issues after launch is more expensive and time-consuming than during testing.
+  -Negative user experiences or security breaches can damage the brand’s reputation permanently.
+
+qns9:A developer begins coding a website immediately after meeting the client, without creating
+a design prototype or sitemap. Midway through, the client rejects the layout. Analyze
+what went wrong in the process and how it should have been handled.
+->The developer made a critical process mistake by skipping the planning and design phase. Key issues:
+
+No Design Prototype:
+  -The client had no visual representation of the website before coding began.
+  -Without approval, the developer assumed the layout would meet client expectations, leading to misalignment.
+
+No Sitemap or Planning:
+  -The website structure and navigation were not clearly defined.
+  -This caused confusion in content placement and flow, making redesign necessary midway.
+
+Coding Before Approval:
+  -Writing code before finalizing the design wastes time and resources.
+  -Changes requested by the client require rework, increasing project cost and delay
+
+How It Should Have Been Handled
+  -Requirement Analysis: Understand client goals and target audience.
+  -Create Sitemap: Define all pages and navigation structure.
+  -Design Prototype / Mockup: Show a visual representation of layout and features.
+  -Client Approval: Only begin coding after the client reviews and approves the design.
+  -Iterative Feedback: Use revisions on the prototype to avoid major changes during development.
+
+qns10:A university website was launched successfully, but after six months, students stopped
+visiting it because the exam schedules were outdated. Which phase of the development
+lifecycle was neglected? Explain the activities involved in this phase. 6 marks
+->The problem occurred because the website was not updated after launch, indicating that the Maintenance phase of the development lifecycle was neglected.
+
+Explanation:
+  -The Maintenance phase is an ongoing phase where the website is monitored, updated, and improved to ensure it remains accurate, functional, and relevant.
+
+Activities Involved in the Maintenance Phase:
+  -Content Updates: Keeping information like exam schedules, notices, and news current.
+  -Bug Fixes: Identifying and correcting errors or broken links.
+  -Security Updates: Applying patches and updates to protect the site from threats.
+  -Performance Monitoring: Ensuring fast loading times and smooth operation.
+  -Compatibility Updates: Updating the site to work with new browsers or devices.
+  -User Feedback Implementation: Making improvements based on student or staff suggestions.
