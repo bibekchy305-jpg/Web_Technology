@@ -22,6 +22,8 @@ body {
 }
 
 .div1 {
+    font-size: larger;
+    margin: 0px 0px 0px 70px;
     color: white;
     font-weight: var(--font-semi-bold);
     transition: .4s;
@@ -117,7 +119,7 @@ li {
             height: var(--header--height);
             margin-top: 0px;
             display: flex;
-            justify-content: space-around;
+            justify-content: space-between;
             align-items: center;
             padding-top: 30px;
             padding-bottom: 30px;
@@ -134,7 +136,7 @@ li {
         .nav_list {
             display: flex;
             flex-direction: row;
-            padding-right: 10rem;
+            padding-right: 2rem;
         }
     .nav_toggle,
     .nav_close {
@@ -148,7 +150,7 @@ li {
 .second_div {
     display: flex;
     justify-content: space-between;
-    margin:30px 60px 30px 60px;
+    margin:70px 60px 30px 60px;
     background-color: ;
 }
 
@@ -160,18 +162,116 @@ img {
     box-shadow: 0px 0px 12px 0px rgb(253, 97, 0) ; 
 }
 
-.home-logo {
+.nav_logo {
    border: groove;
-   margin: 0px 3px 0px 0px;
+   margin: 0px 10px 0px 0px;
    background-color: rgb(255, 255, 255);
+   
+   
+}
+
+.ul{
+    text-decoration: none;
 }
  
+.below_logo {
+    font-size: x-large;
+    margin: 8px 0px 0px 30px;
+}
 .blank_line {
     margin-top: -8px;
+    margin-left: -0px;
     padding: 0px;
     
 }
 
 .home_social {
     margin-top: 18px;
+}
+
+.div4 {
+    margin: 60px 0px 0px 0px;
+}
+.p1 {
+   
+    font-weight: 100 bolder;
+    margin: 5px 0px 20px 0px;
+}
+.p2 {
+    font-size: large;
+    margin: 0px 0px 20px 0px;
+}
+.p3 {
+    font-size: large;
+    width: 500px;
+}
+
+.buttons {
+    display: flex;
+    margin: 60px;
+}
+
+.button1 {
+    margin: 0px 30px;
+    height: 40px;
+    width: 110px;
+    border: none;
+    background-color: rgb(2, 234, 223);
+    box-shadow: 0px 0px 12px 0px rgb(34, 77, 67);
+    border-radius: 12px;
+    transition: .4s;
+}
+
+.button1:hover {
+    box-shadow: 0px 0px 12px 0px rgb(0, 0, 0);
+}
+
+.button2 {
+    margin: 0px 30px;
+    height: 42px;
+    width: 110px;
+    color: rgb(255, 255, 255);
+    border: rgb(2, 234, 223) groove;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0px 0px 12px 0px rgb(65, 210, 186);
+    border-radius: 12px;
+    transition: .4s;
+}
+.button2:hover {
+    box-shadow: 0px 0px 12px 0px rgb(0, 0, 0);
+}
+
+.skills_word {
+    margin: 0px 60px;
+}
+.skill_list {
+    margin: 20px 60px;
+    flex-direction: column;  
+}
+
+.skill1 { 
+    margin: 2px 0px;
+    height: 27px;
+    width: 98px;
+    border: groove;
+    text-align: center;
+    border: rgb(255, 0, 0) groove;
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    transition: .4s;
+}
+
+.skill1:hover {
+    box-shadow: 0px 0px 12px 0px red ;
+}
+
+
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-top: 2px;
+    padding-top: 10px;
 }

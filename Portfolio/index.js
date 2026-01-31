@@ -22,3 +22,6 @@ const linkAction = () => {
     navMenu.cvlassList.remove('show_menu')
 }
 navLink.forEach (n => n.addEventListener('click', linkAction))
+
+
+
